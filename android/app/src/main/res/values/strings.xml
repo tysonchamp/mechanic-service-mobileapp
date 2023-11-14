@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bike and Car Service Lab</string>
+    <string name="title_activity_main">Bike and Car Service Lab</string>
+    <string name="package_name">com.bikeandcarservicenaihati.app</string>
+    <string name="custom_url_scheme">com.bikeandcarservicenaihati.app</string>
+</resources>
