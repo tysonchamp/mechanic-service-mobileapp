@@ -47,6 +47,7 @@ function Home() {
                 setServiceAmountsPurchased(data.service_amounts_purchased);
                 setApiLoaded(true);
                 // setIsLoaded(false);
+                window.open(`https://bikeandcarwash.in/download/${data.booking.id}`, '_blank');
             }
         })
     }, [])
@@ -105,7 +106,7 @@ function Home() {
             </div>
             <div className="cart-btn-group basic">
                 <ul>
-                <li><a href={`https://bikeandcarwash.in/download/${bookingDetails.id}`} target='_blank'>Download</a></li>
+                <li><a href={`https://bikeandcarwash.in/download/${bookingDetails.id}`} target="_blank" download={true}>Download</a></li>
                 </ul>
             </div>
         </div>

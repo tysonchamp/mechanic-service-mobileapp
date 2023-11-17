@@ -169,7 +169,7 @@ function Home() {
         <div className="product-group ad">
           <div className="ad-banner">
             <a href="#" className="product-list-item">
-              <div className="product-image"><img src="/images/bike.jpg" alt="" /></div>
+              <div className="product-image"><img src="/images/footban.jpg" alt="" /></div>
             </a>
           </div>
         </div>

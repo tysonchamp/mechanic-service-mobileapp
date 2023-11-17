@@ -54,16 +54,10 @@ function Sidenav(props) {
         </li>
         <div className="devider"></div>
         <li>
-          <a className="white-ripple" href="#">
+          <a className="white-ripple" href="https://www.facebook.com/profile.php?id=61551862275433" target='_blank'>
             <IonIcon name="logo-facebook"></IonIcon> Follow on Facebook
           </a>
         </li>
-        <li><a className="white-ripple" href="#">
-          <IonIcon name="logo-instagram"></IonIcon> Follow on Instagram
-        </a></li>
-        <li><a className="white-ripple" href="#">
-          <IonIcon name="logo-youtube"></IonIcon> Follow on YouTube
-        </a></li>
         <div className="devider"></div>
         <li><a className="white-ripple" href="https://bikeandcarwash.in/about-us" target="_blank">
           <IonIcon name="document-outline"></IonIcon> About Us

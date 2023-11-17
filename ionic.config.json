@@ -1,0 +1,7 @@
+{
+  "name": "mechanicapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
